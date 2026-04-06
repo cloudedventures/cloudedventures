@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_cloudedventures.com-0A0A0A?style=for-the-badge&logoColor=white)](https://cloudedventures.com)
-[![AWS track](https://img.shields.io/badge/AWS_Partner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cloudedventures.com)
-[![Anthropic track](https://img.shields.io/badge/Claude_Partner_Network-CC785C?style=for-the-badge&logoColor=white)](https://cloudedventures.com/labs/track/claude-certified-architect-cca-001)
+[![AWS Hands on Labs](https://img.shields.io/badge/AWS_Labs-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cloudedventures.com)
+[![Claude Hands on Labs](https://img.shields.io/badge/Claude_Labs-CC785C?style=for-the-badge&logoColor=white)](https://cloudedventures.com/labs/track/claude-certified-architect-cca-001)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ajbuilds)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajbuilds)
 
@@ -93,7 +93,7 @@ The CCA-001 (Claude Certified Architect, Foundations) launched March 12, 2026 �
 ## 🔬 How It Works
 
 ```
-┌─────────────────┐    ┌──────────────────────┐    ┌─────────────────┐
+┌─────────────────┐    ┌──────────────────────┐     ┌─────────────────┐
 │  Choose a Lab   │───▶│  Real AWS Sandbox     │───▶│ Complete Mission│
 └─────────────────┘    │  spins up instantly   │    └────────┬────────┘
                        └──────────────────────┘              │
